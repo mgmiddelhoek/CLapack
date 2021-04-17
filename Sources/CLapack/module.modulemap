@@ -1,0 +1,8 @@
+//Sources/CLapack/module.modulemap
+
+module CLapack {
+    header "../../Headers/CLapack-Bridging-Header.h"
+    link "lapack"
+    link "blas"
+    export *
+}
