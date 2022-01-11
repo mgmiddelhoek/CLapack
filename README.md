@@ -1,6 +1,6 @@
 # CLapack
 
-Module for Lapack and Blas, as a Linux replacement for the Accelarate framework on MacOS.
+Module for Lapack and Blas, as a Linux replacement for the Accelerate framework on MacOS.
 
 Required packages:
 
